@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TetianaLuhacheva
-- 👀 I’m interested in Dev
-- 🌱 I’m currently learning Java
+- 👀 I’m Dev
+- 🌱 I’m work with JavaScript
 - 💞️ I’m looking to collaborate on  
 
 <!---
